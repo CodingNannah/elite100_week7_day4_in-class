@@ -1,0 +1,67 @@
+body {
+    position: relative;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 400;
+    align-content: center;
+    justify-content: space between
+}
+
+/* Changing the button made dice not work right */
+.dice {
+    /* border: 1px solid grey;
+    border-radius: 5px;
+    background-color: white;
+    color: black;*/
+    padding: 10px; 
+    /*margin: 30px;
+    width: 30px;
+    text-align: center */
+}
+
+/*#die1 {
+    background-color: blue;
+    color: white
+}
+
+#die2 {
+    background-color: red;
+    color: white
+}
+
+#die3 {
+    background-color: yellow;
+    border: 1px solid rgb(225, 209, 119);
+}
+
+#die4 {
+    background-color: green;
+    color: white
+}
+
+#die5 {
+    background-color: orange;
+    color: white;
+    border: 1px solid rgb(235, 149, 51);
+} */
+
+#push {
+    padding: 10px;
+    margin: 30px;
+    /* text-align: left;
+    text-decoration-style: none; */
+};
+
+/* #button {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    
+} */
